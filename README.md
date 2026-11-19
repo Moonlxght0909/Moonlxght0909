@@ -43,8 +43,7 @@ I enjoy exploring Android platform development, Linux kernel source trees, build
 ## 📌 Selected Repositories
 
 <!-- REPOS:START -->
-_Repository highlights are refreshed automatically every day from the public GitHub API._
-
+_No public repositories were returned by the GitHub API as of 2026-11-19 17:51_
 <!-- REPOS:END -->
 
 ## 📈 GitHub Activity
@@ -61,8 +60,7 @@ _Repository highlights are refreshed automatically every day from the public Git
 ## 🤖 AI Daily Brief
 
 <!-- AI-BRIEF:START -->
-_The AI-generated developer brief will appear here after the first successful scheduled workflow run._
-
+_Automation ran on 2026-11-19 17:51 UTC. Add the `OPENAI_API_KEY` repository secret to enable the AI-generated daily brief._
 <!-- AI-BRIEF:END -->
 
 ## 📬 Connect
