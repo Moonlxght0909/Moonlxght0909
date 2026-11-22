@@ -28,8 +28,9 @@ jobs:
       - name: Generate daily profile content
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: gpt-4.1-mini
+          env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-2.5-flash
           GITHUB_USERNAME: Moonlxght0909
         run: python scripts/update_profile.py
 
