@@ -43,7 +43,12 @@ I enjoy exploring Android platform development, Linux kernel source trees, build
 ## 📌 Selected Repositories
 
 <!-- REPOS:START -->
-_No public repositories were returned by the GitHub API as of 2026-11-24 09:34_
+_Automatically refreshed: 2026-11-25 08:05 UTC_
+
+### [android_kernel_xiaomi_sm8635](https://github.com/Moonlxght0909/android_kernel_xiaomi_sm8635)
+No description provided yet.
+
+`C` · ⭐ 0 · [Source]( https://github.com/Moonlxght0909/android_kernel_xiaomi_sm8635 )
 <!-- REPOS:END -->
 
 ## 📈 GitHub Activity
@@ -60,7 +65,7 @@ _No public repositories were returned by the GitHub API as of 2026-11-24 09:34_
 ## 🤖 AI Daily Brief
 
 <!-- AI-BRIEF:START -->
-_Automation ran on 2026-11-24 09:34 UTC. Add the `OPENAI_API_KEY` repository secret to enable the AI-generated daily brief._
+_Automation ran on 2026-11-25 08:05 UTC. Add the `OPENAI_API_KEY` repository secret to enable the AI-generated daily brief._
 <!-- AI-BRIEF:END -->
 
 ## 📬 Connect
